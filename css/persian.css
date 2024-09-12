@@ -1466,6 +1466,21 @@ footer .copyright{
         width: 100%;
     }
 
+    .num-btn{
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-end;
+        align-content: center;
+        width: auto;
+    }
+
+    .num-btn .normal{
+        margin-right: 15px;
+        width: 30px;
+    }
+
     /*Blog Page*/
 
     #blog{
