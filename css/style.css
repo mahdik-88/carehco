@@ -351,6 +351,7 @@ body{
     border-radius: 4px;
     opacity: 0;
     transition: .3s;
+    margin-right: -5px;
 }
 
 .select li {
@@ -1364,6 +1365,10 @@ footer .copyright{
     #form-details form{
         width: 50%;
     }
+
+    #header .logo{
+        width: 210px;
+    }
 }   
 
 @media (max-width: 477px){
@@ -1373,6 +1378,10 @@ footer .copyright{
 
     #header{
         padding: 10px 30px;
+    }
+
+    #header .logo{
+        width: 180px;
     }
 
     h1{
@@ -1446,6 +1455,10 @@ footer .copyright{
 
     #prodetails .single-pro-details{
         width: 100%;
+    }
+
+    .num-btn .normal{
+        width: 30px;
     }
 
     /*Blog Page*/
