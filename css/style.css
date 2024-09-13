@@ -1366,7 +1366,7 @@ footer .copyright{
         width: 50%;
     }
 
-    #header .logo{
+    #header a img{
         width: 210px;
     }
 }   
@@ -1380,7 +1380,7 @@ footer .copyright{
         padding: 10px 30px;
     }
 
-    #header .logo{
+    #header a img{
         width: 180px;
     }
 
