@@ -668,6 +668,7 @@ footer .copyright{
 
 .ordering{
     margin: 20px;
+    margin-right: 10px;
 }
 
 .ordering select{
@@ -677,6 +678,7 @@ footer .copyright{
     text-align: center;
     height: 45px;
 }
+
 
 #pagination{
     text-align: center;
@@ -1344,7 +1346,8 @@ footer .copyright{
     }
 
     #product1 .pro{
-        margin: 15px;
+        margin: 0px;
+        margin-bottom: 15px;
     }
 
     #banner{
@@ -1368,7 +1371,6 @@ footer .copyright{
     #newletter .form{
         width: 70%;
     }
-
     /* Contact Page  */
     #form-details{
         padding: 40px;
@@ -1376,6 +1378,10 @@ footer .copyright{
 
     #form-details form{
         width: 50%;
+    }
+
+    #header a img{
+        width: 200px;
     }
 }   
 
@@ -1386,6 +1392,10 @@ footer .copyright{
 
     #header{
         padding: 10px;
+    }
+
+    #header a img{
+        width: 160px;
     }
 
     h1{
@@ -1399,6 +1409,7 @@ footer .copyright{
     #hero{
         padding: 0 20px;
         background-position: 25%;
+        height: 105vh;
     }
 
     #feature{
