@@ -166,6 +166,10 @@ body{
     transition: 0.3s ease;
 }
 
+#user{
+    font-size: 30px;
+}
+
 #header a img{
     width: 240px;
 }
@@ -1426,7 +1430,7 @@ footer .copyright{
     }
 
     #product1 .pro .cart{
-        right: 275px;
+        left: 15px;
     }
 
     #banner{
